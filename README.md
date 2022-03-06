@@ -1,5 +1,5 @@
 ### Hola, I'm Lincy Rebello! 👋
-
+- 🌱 I’m currently learning Python
 <!--
 **LincyRebello/LincyRebello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
