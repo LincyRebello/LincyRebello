@@ -20,7 +20,7 @@
 
 ```python
 lincy = {
-    "role":        ["Product Analyst", "Data Analyst", "Data Engineer"],
+    "role":        ["Product Analyst", "Data Analyst"],
     "curious_about": ["Product Design", "Product Engineering", "Data Storytelling"],
     "currently":   "Transforming raw data into meaningful product decisions",
     "fun_fact":    "I see patterns everywhere — even in coffee spills ☕"
@@ -48,8 +48,8 @@ lincy = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincyrebello&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincyrebello&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincyrebello&theme=midnight_purple"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincyrebello&theme=midnight_purple"/>
 
 </div>
 
