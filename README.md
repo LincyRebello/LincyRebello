@@ -21,7 +21,7 @@
 ```python
 lincy = {
     "role":        ["Product Analyst", "Data Analyst", "Data Engineer"],
-    "curious_about": ["Product Design", "Product Engineering", "Clinical & Health Data Analytics", "Data Storytelling"],
+    "curious_about": ["Product Design", "Clinical & Health Data Analytics", "Data Storytelling"],
     "currently":   "Transforming raw data into meaningful product decisions",
     "fun_fact":    "I see patterns everywhere — even in coffee spills ☕"
 }
